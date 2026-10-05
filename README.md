@@ -122,9 +122,9 @@ and \[GLFW](https://www.glfw.org/) 3.4.
 
 
 
-!\[image 1](screenshots/barrel.png)
+![image 1](screenshots/barrel.png)
 
-!\[image 2](screenshots/Sting.png)
+![image 2](screenshots/Sting.png)
 
 
 
