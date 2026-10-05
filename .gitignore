@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+
+# Editor backup files
+*~
+
+*.html
+
+# Loose text/config files
+*.txt
+
+# Mesh/model source files
+*.obj
+
+# PBR intermediate/texture-pack files
+*.pbr
+
+# Build output
+build/*
+!build/app.exe
